@@ -400,7 +400,7 @@ Each project is a deliberate step in understanding a different dimension of the 
 
 **Ashikur Rahman**
 
-[![GitHub](https://img.shields.io/badge/GitHub-BrownSugar297-181717?style=for-the-badge&logo=github)](https://github.com/BrownSugar297)
+[![GitHub](https://img.shields.io/badge/GitHub-BrownSugar297-181717?style=for-the-badge&logo=github)](https://github.com/a-r-ashik)
 
 ---
 
