@@ -400,7 +400,7 @@ Each project is a deliberate step in understanding a different dimension of the 
 
 **Ashikur Rahman**
 
-[![GitHub](https://img.shields.io/badge/GitHub-a--r--ashik-181717?style=for-the-badge&logo=github)](https://github.com/a-r-ashik)
+[![GitHub](https://img.shields.io/badge/GitHub-Ashikur%20Rahman-181717?style=for-the-badge&logo=github)](https://github.com/a-r-ashik)
 
 ---
 
